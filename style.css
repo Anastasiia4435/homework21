@@ -1,0 +1,237 @@
+body {
+  background-color: #a3b2bb;
+}
+
+.card {
+  background-color: #a3b2bb;
+  width: 600px;
+  height: 890px;
+  border-radius: 15px;
+  position: relative;
+  left: 1000px;
+  top: 15px;
+}
+
+.visa {
+  background-color: rgb(14, 14, 14);
+  height: 350px;
+  width: 500px;
+  border-radius: 15px;
+  position: relative;
+  top: 60px;
+  left: 160px;
+}
+
+img {
+  width: 100px;
+  padding-top: 40px;
+  padding-left: 380px;
+}
+
+.button {
+  display: block;
+  background-color: #363d4b;
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+  width: 500px;
+  height: 70px;
+  margin: auto;
+  margin-top: 15px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  padding-top: 20px;
+  padding-left: 190px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+.button:hover {
+  background-color: #4a5263;
+  transition: 0.5s;
+}
+
+.text {
+  color: white;
+  position: relative;
+  left: 25px;
+  top: 25px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+.card-text {
+  color: white;
+  font-size: 25px;
+  position: relative;
+  top: 50px;
+  left: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.code-text {
+  color: white;
+  font-size: 30px;
+}
+
+.code {
+  width: 400px;
+  position: relative;
+  left: 50px;
+  top: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.numbers {
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 47px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.name {
+  color: white;
+  position: relative;
+  top: 70px;
+  left: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.name-div {
+  border: 2px solid #d2d9dd;
+  margin-top: 100px;
+  margin-left: 100px;
+  width: 400px;
+  height: 70px;
+}
+
+.text-name {
+  color: #d2d9dd;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.text-Diana {
+  color: white;
+  margin: 0;
+  margin-left: 30px;
+  margin-top: 5px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
+
+.code1-div {
+  border: 2px solid #d2d9dd;
+  margin-top: 20px;
+  margin-left: 100px;
+  width: 400px;
+  height: 70px;
+}
+
+.text-code1 {
+  color: #d2d9dd;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.text-code-point {
+  color: white;
+  font-size: 30px;
+}
+
+.points {
+  width: 190px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  bottom: 55px;
+  left: 30px;
+}
+
+.last-code {
+  color: #d2d9dd;
+  margin: 0;
+  position: relative;
+  left: 240px;
+  top: 8px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.code2-div {
+  border: 2px solid #d2d9dd;
+  margin-top: 20px;
+  margin-left: 100px;
+  width: 400px;
+  height: 70px;
+}
+
+.code2-text {
+  color: #d2d9dd;
+  margin: 0;
+  margin-top: 5px;
+  margin-left: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.change-text {
+  color: #d2d9dd;
+  margin: 0;
+  position: relative;
+  bottom: 17px;
+  left: 320px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.code2-change {
+  color: white;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+}
+
+.codes2 {
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+  position: relative;
+  bottom: 25px;
+  left: 50px;
+}
+
+.white-card {
+  width: 1800px;
+  height: 920px;
+  background-color: #e5e7e9;
+  margin: 0;
+  margin-left: 50px;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+
+.food1 {
+  position: absolute;
+  width: 550px;
+  left: 5px;
+  top: 150px;
+}
+
+.shopping {
+  position: absolute;
+  top: 80px;
+  left: 100px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+}
